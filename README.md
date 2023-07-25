@@ -19,4 +19,5 @@
   - `sarraille_marketingmodel.md` is a first draft of my tutorial using the toy data, which was developed into `attrib_model.ipynb`
 
 ## To-Do:
-- Add graph, visualization of weighted events
+- Add graph and visualizations of weighted events
+- Demo executing all queries simultaneously with conn.executescript
